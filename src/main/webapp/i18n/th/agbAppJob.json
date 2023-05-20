@@ -1,0 +1,29 @@
+{
+  "agbApp": {
+    "agbAppJob": {
+      "home": {
+        "title": "Jobs",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "สร้าง Job",
+        "createOrEditLabel": "สร้างหรือแก้ไข Job",
+        "search": "ค้นหา Job",
+        "notFound": "No Jobs found"
+      },
+      "created": "Job ถูกสร้างด้วย {{ param }}",
+      "updated": "Job ถูกแก้ไขด้วย {{ param }}",
+      "deleted": "Job ถูกลบด้วย {{ param }}",
+      "delete": {
+        "question": "คุณต้องการที่จะลบ Job {{ id }}?"
+      },
+      "detail": {
+        "title": "Job"
+      },
+      "id": "ID",
+      "jobTitle": "Job Title",
+      "minSalary": "Min Salary",
+      "maxSalary": "Max Salary",
+      "task": "Task",
+      "employee": "Employee"
+    }
+  }
+}

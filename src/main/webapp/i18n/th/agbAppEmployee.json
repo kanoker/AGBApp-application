@@ -1,0 +1,37 @@
+{
+  "agbApp": {
+    "agbAppEmployee": {
+      "home": {
+        "title": "Employees",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "สร้าง Employee",
+        "createOrEditLabel": "สร้างหรือแก้ไข Employee",
+        "search": "ค้นหา Employee",
+        "notFound": "No Employees found"
+      },
+      "created": "Employee ถูกสร้างด้วย {{ param }}",
+      "updated": "Employee ถูกแก้ไขด้วย {{ param }}",
+      "deleted": "Employee ถูกลบด้วย {{ param }}",
+      "delete": {
+        "question": "คุณต้องการที่จะลบ Employee {{ id }}?"
+      },
+      "detail": {
+        "title": "Employee"
+      },
+      "id": "ID",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "phoneNumber": "Phone Number",
+      "hireDate": "Hire Date",
+      "salary": "Salary",
+      "commissionPct": "Commission Pct",
+      "job": "Job",
+      "manager": "Manager",
+      "department": "Department",
+      "help": {
+        "firstName": "The firstname attribute."
+      }
+    }
+  }
+}

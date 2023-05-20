@@ -1,0 +1,27 @@
+{
+  "agbApp": {
+    "agbAppDepartment": {
+      "home": {
+        "title": "Departments",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "สร้าง Department",
+        "createOrEditLabel": "สร้างหรือแก้ไข Department",
+        "search": "ค้นหา Department",
+        "notFound": "No Departments found"
+      },
+      "created": "Department ถูกสร้างด้วย {{ param }}",
+      "updated": "Department ถูกแก้ไขด้วย {{ param }}",
+      "deleted": "Department ถูกลบด้วย {{ param }}",
+      "delete": {
+        "question": "คุณต้องการที่จะลบ Department {{ id }}?"
+      },
+      "detail": {
+        "title": "Department"
+      },
+      "id": "ID",
+      "departmentName": "Department Name",
+      "location": "Location",
+      "employee": "Employee"
+    }
+  }
+}
