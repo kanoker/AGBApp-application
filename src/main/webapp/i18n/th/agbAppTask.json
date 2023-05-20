@@ -1,0 +1,27 @@
+{
+  "agbApp": {
+    "agbAppTask": {
+      "home": {
+        "title": "Tasks",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "สร้าง Task",
+        "createOrEditLabel": "สร้างหรือแก้ไข Task",
+        "search": "ค้นหา Task",
+        "notFound": "No Tasks found"
+      },
+      "created": "Task ถูกสร้างด้วย {{ param }}",
+      "updated": "Task ถูกแก้ไขด้วย {{ param }}",
+      "deleted": "Task ถูกลบด้วย {{ param }}",
+      "delete": {
+        "question": "คุณต้องการที่จะลบ Task {{ id }}?"
+      },
+      "detail": {
+        "title": "Task"
+      },
+      "id": "ID",
+      "title": "Title",
+      "description": "Description",
+      "job": "Job"
+    }
+  }
+}
